@@ -18,3 +18,9 @@
 ## docker images and containers running 
 
 <img width="1458" alt="image" src="https://github.com/user-attachments/assets/a2baaf65-ba5e-4f1b-90c6-007a5979c330" />
+
+## Jenkins build trigger in dev branch
+
+<img width="1457" alt="image" src="https://github.com/user-attachments/assets/c29f5cfd-104d-42cd-9a52-f459e0e2b5cc" />
+
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/55c406ce-4a8e-4540-877a-cd8b29d53fbb" />
