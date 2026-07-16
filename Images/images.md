@@ -41,3 +41,6 @@
 
 <img width="535" alt="image" src="https://github.com/user-attachments/assets/89abe2b0-8a21-43b0-bd94-10535c2d1a70" />
 
+## Monitoring website using uptime kuma
+
+<img width="1906" alt="image" src="https://github.com/user-attachments/assets/5671e0d2-aef5-423f-9133-5b9e5a05c81d" />
