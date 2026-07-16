@@ -36,3 +36,8 @@
 <img width="1911" alt="image" src="https://github.com/user-attachments/assets/37df6db5-8f5d-4ce7-ad70-3bdfd1f70dbe" />
 
 <img width="1539" alt="image" src="https://github.com/user-attachments/assets/005e1572-436b-4f06-a43e-4efebc757aff" />
+
+## Build and deploy files
+
+<img width="535" alt="image" src="https://github.com/user-attachments/assets/89abe2b0-8a21-43b0-bd94-10535c2d1a70" />
+
