@@ -15,12 +15,24 @@
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/b79ad14c-ec64-4e09-a55f-965a0e8fac71" />
 
-## docker images and containers running 
+## docker images and containers running (dev and prod)
 
-<img width="1458" alt="image" src="https://github.com/user-attachments/assets/a2baaf65-ba5e-4f1b-90c6-007a5979c330" />
+<img width="1365" alt="image" src="https://github.com/user-attachments/assets/dbcacdda-4540-4f11-b733-82c130ab1412" />
 
 ## Jenkins build trigger in dev branch
 
 <img width="1457" alt="image" src="https://github.com/user-attachments/assets/c29f5cfd-104d-42cd-9a52-f459e0e2b5cc" />
 
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/55c406ce-4a8e-4540-877a-cd8b29d53fbb" />
+
+## docker hub Dev and prod images
+
+<img width="1913" alt="image" src="https://github.com/user-attachments/assets/5ad32bec-bc4a-4dc6-bdb3-27bd8f716262" />
+
+<img width="1913" alt="image" src="https://github.com/user-attachments/assets/1165f83d-a55b-42f3-a3ba-fc468e3dc1a6" />
+
+## Jenkins Prod image trigger and starting a container
+
+<img width="1911" alt="image" src="https://github.com/user-attachments/assets/37df6db5-8f5d-4ce7-ad70-3bdfd1f70dbe" />
+
+<img width="1539" alt="image" src="https://github.com/user-attachments/assets/005e1572-436b-4f06-a43e-4efebc757aff" />
