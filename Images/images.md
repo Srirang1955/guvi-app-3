@@ -44,3 +44,10 @@
 ## Monitoring website using uptime kuma
 
 <img width="1906" alt="image" src="https://github.com/user-attachments/assets/5671e0d2-aef5-423f-9133-5b9e5a05c81d" />
+
+## App deployment 
+
+<img width="1465" alt="image" src="https://github.com/user-attachments/assets/86da3966-e7b5-4788-b8f3-62162d4e42c3" />
+
+<img width="1466" alt="image" src="https://github.com/user-attachments/assets/481aaf80-27f7-4944-9b73-2cd23411b580" />
+
